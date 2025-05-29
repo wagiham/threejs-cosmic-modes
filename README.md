@@ -6,12 +6,12 @@ An interactive WebGL particle simulation visualizing three cosmic states: **Gala
 
 ---
 
-## 🌀 Features
+## Features
 
 - **Three Dynamic Modes**:
-  - 🟠🟣 **Galaxy** – Spiral-arm structure with orange–purple gradient, orbital motion
-  - ☁️ **Nebula** – Blurred, glowing particles with slow movement and pulsation
-  - 🕳️ **Black Hole** – Matter spirals rapidly inward toward a luminous core
+  -  **Galaxy** – Spiral-arm structure with orange–purple gradient, orbital motion
+  - ☁**Nebula** – Blurred, glowing particles with slow movement and pulsation
+  -  **Black Hole** – Matter spirals rapidly inward toward a luminous core
 
 - **Built-in Preset Toggle** via dropdown
 - **GLSL Shaders** for animation, color blending, and soft-edge point rendering
@@ -39,7 +39,7 @@ threejs-cosmic-modes/
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - [Three.js](https://threejs.org/) – 3D WebGL engine
 - [GLSL](https://thebookofshaders.com/) – For custom vertex & fragment shaders
