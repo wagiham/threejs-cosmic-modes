@@ -25,7 +25,6 @@ An interactive WebGL particle simulation visualizing three cosmic states: **Gala
 |--------|--------|-------------|
 | ![Galaxy](assets/galaxy.png) | ![Nebula](assets/nebula.png) | ![Black Hole](assets/blackhole.png) |
 
-> (Make sure to add actual `assets/` images if hosting locally.)
 
 ---
 
