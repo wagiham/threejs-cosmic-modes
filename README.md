@@ -10,7 +10,7 @@ An interactive WebGL particle simulation visualizing three cosmic states: **Gala
 
 - **Three Dynamic Modes**:
   -  **Galaxy** – Spiral-arm structure with orange–purple gradient, orbital motion
-  - ☁**Nebula** – Blurred, glowing particles with slow movement and pulsation
+  - **Nebula** – Blurred, glowing particles with slow movement and pulsation
   -  **Black Hole** – Matter spirals rapidly inward toward a luminous core
 
 - **Built-in Preset Toggle** via dropdown
