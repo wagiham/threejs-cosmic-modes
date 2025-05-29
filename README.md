@@ -1,4 +1,4 @@
-# 🌌 Three.js Cosmic Modes
+# 🌌 Interactive Particle Universe with Custom GLSL Shaders
 
 An interactive WebGL particle simulation visualizing three cosmic states: **Galaxy**, **Nebula**, and **Black Hole** — powered by custom **GLSL shaders** and **Three.js**.
 
