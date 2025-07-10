@@ -22,11 +22,9 @@ An interactive WebGL particle simulation visualizing three cosmic states: **Gala
 ## 📸 Preview
 
 | Galaxy | Nebula | Black Hole |
-|--------|--------|-------------|
-| Galaxy(<img width="1031" height="606" alt="image" src="https://github.com/user-attachments/assets/6c6dbae2-2df3-434a-bfa4-1a15380e85db" />
-) | Nebula(<img width="888" height="601" alt="image" src="https://github.com/user-attachments/assets/bd8aa087-a615-43d5-98e0-56e53ab73572" />
-) | Black Hole (<img width="969" height="718" alt="image" src="https://github.com/user-attachments/assets/551e538c-db61-4fae-b540-be788c5ffc2f" />
-) |
+|--------|--------|------------|
+| <img width="300" src="https://github.com/user-attachments/assets/6c6dbae2-2df3-434a-bfa4-1a15380e85db" alt="Galaxy" /> | <img width="300" src="https://github.com/user-attachments/assets/bd8aa087-a615-43d5-98e0-56e53ab73572" alt="Nebula" /> | <img width="300" src="https://github.com/user-attachments/assets/551e538c-db61-4fae-b540-be788c5ffc2f" alt="Black Hole" /> |
+
 
 
 ---
